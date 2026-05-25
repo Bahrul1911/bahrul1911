@@ -21,8 +21,12 @@ Here are some ideas to get you started:
 <p align="left">
 <!-- <a href="https://instagram.com/maxroez_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maxroez_1" height="30" width="40" /></a>
 </p> -->
-<a href="https://www.tiktok.com/@programmerkacamata" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="programmerkacamata" height="30" width="40" />
+<a href="https://www.tiktok.com/@programmerkacamata" target="_blank">
+  <img align="center"
+    src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg"
+    alt="programmerkacamata"
+    height="30"
+    width="40" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
